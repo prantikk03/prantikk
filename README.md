@@ -2,7 +2,7 @@
 Welcome to my Profile
 👋 Hi, I'm Prantik Dey
 
-![Alt Text](https://share.google/2Scy4ir1HKYnsBAKo)
+![Alt Textz(https://share.google/2Scy4ir1HKYnsBAKo)
 
 🚀 About Me
 
