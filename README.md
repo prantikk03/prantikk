@@ -1,7 +1,7 @@
 # prantikk
 Welcome to my Profile
 👋 Hi, I'm Prantik Dey
-![Alt Text](image_url)
+<img src="https://your-image-link.jpg" alt="Business Analytics Dashboard" width="600"/>
 
 🚀 About Me
 
