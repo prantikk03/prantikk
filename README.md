@@ -2,7 +2,7 @@
 Welcome to my Profile
 👋 Hi, I'm Prantik Dey
 
-(https://share.google/2Scy4ir1HKYnsBAKo)
+(https://blog.herzing.ca/hubfs/data%20analytics.jpg)
 
 🚀 About Me
 
