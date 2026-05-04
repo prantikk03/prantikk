@@ -2,7 +2,7 @@
 Welcome to my Profile
 👋 Hi, I'm Prantik Dey
 
-![Description](path-digital-tR0jvlsmCuQ-unsplash.jpg)
+![Alt Text](https://share.google/2Scy4ir1HKYnsBAKo)
 
 🚀 About Me
 
