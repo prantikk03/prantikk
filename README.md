@@ -2,6 +2,8 @@
 Welcome to my Profile
 👋 Hi, I'm Prantik Dey
 
+
+<img src="(https://blog.herzing.ca/hubfs/data%20analytics.jpg)" alt="My Image">
 (https://blog.herzing.ca/hubfs/data%20analytics.jpg)
 
 🚀 About Me
