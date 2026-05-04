@@ -1,6 +1,7 @@
 # prantikk
 Welcome to my Profile
 👋 Hi, I'm Prantik Dey
+![Business Analytics Dashboard](https://raw.githubusercontent.com/your-username/your-repo/main/dashboard.jpg)
 
 🚀 About Me
 
